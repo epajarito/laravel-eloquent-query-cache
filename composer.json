@@ -1,5 +1,5 @@
 {
-    "name": "rennokki/laravel-eloquent-query-cache",
+    "name": "epajarito/laravel-eloquent-query-cache",
     "description": "Adding cache on your Laravel Eloquent queries' results is now a breeze.",
     "keywords": [
         "laravel",
@@ -10,12 +10,12 @@
         "sql"
     ],
     "license": "Apache-2.0",
-    "homepage": "https://github.com/renoki-co/laravel-eloquent-query-cache",
+    "homepage": "https://github.com/epajarito/laravel-eloquent-query-cache",
     "authors": [
         {
-            "name": "Alex Renoki",
-            "email": "alex@renoki.org",
-            "homepage": "https://github.com/rennokki",
+            "name": "Eduardo Pajarito",
+            "email": "laalocuautle@gmail.com",
+            "homepage": "https://github.com/epajarito",
             "role": "Developer"
         }
     ],
